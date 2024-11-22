@@ -1,0 +1,44 @@
+{
+  "id": "preetviradiya/brian-tumor-dataset",
+  "id_no": 1343913,
+  "datasetSlugNullable": "brian-tumor-dataset",
+  "ownerUserNullable": "preetviradiya",
+  "usabilityRatingNullable": 1.0,
+  "titleNullable": "Brian Tumor Dataset",
+  "subtitleNullable": "X-Ray images of Brain",
+  "descriptionNullable": "### Context\n\nThis dataset consists of the scanned images of brain of patient diagnosed of brain tumour.\n\n### Content\nSeparated files for train and test data with separating features and labels\n\n### Acknowledgements\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n### Inspiration\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "datasetId": 1343913,
+  "datasetSlug": "brian-tumor-dataset",
+  "hasDatasetSlug": true,
+  "ownerUser": "preetviradiya",
+  "hasOwnerUser": true,
+  "usabilityRating": 1.0,
+  "hasUsabilityRating": true,
+  "totalViews": 68697,
+  "totalVotes": 130,
+  "totalDownloads": 12877,
+  "title": "Brian Tumor Dataset",
+  "hasTitle": true,
+  "subtitle": "X-Ray images of Brain",
+  "hasSubtitle": true,
+  "description": "### Context\n\nThis dataset consists of the scanned images of brain of patient diagnosed of brain tumour.\n\n### Content\nSeparated files for train and test data with separating features and labels\n\n### Acknowledgements\nWe wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.\n\n### Inspiration\nYour data will be in front of the world's largest data science community. What questions do you want to see answered?",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "arts and entertainment",
+    "computer vision",
+    "deep learning",
+    "cnn",
+    "image",
+    "cancer"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "GPL-2.0",
+      "name": "GPL-2.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
