@@ -1,2 +1,4 @@
 # CSCI-4622-Machine-Learning-Project
-Final Project for ML class
+By John Danekind and Daniel Hatakeyama 
+
+This project focuses on developing a convolutional neural network (CNN) for the classification of brain tumors in medical images. Utilizing a dataset from Kaggle, we trained and tested our model using a combination of preprocessing steps, including image normalization and resizing. We implemented Gradient-weighted Class Activation Mapping (Grad-CAM) to enhance interpretability, enabling the visualization of how the model makes decisions. Our model achieved an impressive 96% accuracy and an F1 score of 97%, demonstrating its potential in supporting medical professionals. However, insights from Grad-CAM revealed areas where unintended features, such as skull shape, influenced model decisions, highlighting the need for transparency and interpretability in AI systems, particularly in healthcare applications.
