@@ -37,5 +37,5 @@ Feel free to reach out or open an issue! Contributions and suggestions are welco
 ## Sources
 1. <a id="source1"></a> [Grad-CAM: Visual Explanations from Deep Networks](https://arxiv.org/abs/1610.02391) - Original Grad-CAM research paper.
 2. <a id="source2"></a> [Convolutional Neural Network Wikipedia](https://en.wikipedia.org/wiki/Convolutional_neural_network) - CNN Overview.
-3. <a id="source3"></a> [Kaggle Brain Tumor Dataset](https://www.kaggle.com/https://www.kaggle.com/code/boneacrabonjac/brain-tumor-classification-with-simple-cnn) - Brain tumor MRI data.
+3. <a id="source3"></a> [Kaggle Brain Tumor Dataset](https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset/data) - Brain tumor MRI data.
 4. <a id="source4"></a> [PyTorch Grad-CAM Repository](https://github.com/jacobgil/pytorch-grad-cam) - Inspired Implementation of Grad-CAM
