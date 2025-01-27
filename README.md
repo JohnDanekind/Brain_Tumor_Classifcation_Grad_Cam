@@ -2,7 +2,7 @@
 ### _Interpretable Deep Learning for Medical Imaging_
 #### By **John Danekind** & **Daniel Hatakeyama** 
 ---
-## Poster
+## Poster 
 ![Poster](images/gradcam-poster.png)
 
 ## Overview
