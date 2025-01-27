@@ -3,7 +3,7 @@
 #### By **John Danekind** & **Daniel Hatakeyama** 
 ---
 ## Poster 
-![Poster](images/gradcam-poster.png)
+![Poster](Images/gradcam-poster.png)
 
 ## Overview
 This project demonstrates the use of **Grad-CAM (Gradient-weighted Class Activation Mapping)**<sup><a href="#source1">[1]</a></sup> to interpret a **Convolutional Neural Network (CNN)**<sup><a href="#source1=2">[2]</a></sup> trained for brain tumor classification. The goal is to visualize which regions of the input image the model focuses on when making predictions, providing insights into its decision-making process.
